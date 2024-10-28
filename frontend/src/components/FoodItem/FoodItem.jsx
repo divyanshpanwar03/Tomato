@@ -1,10 +1,9 @@
-import React, { useState } from 'react'
+import React, { useState,useContext } from 'react'
 import './FoodItem.css'
+import { StoreContext } from '../../Context/StoreContext'
 import { assets } from '../../assets/assets'
 const FoodItem = ({id,name,price,description,image}) => {
-
-    const[itemCount,setItemCount]= useState(0);
-    const{cartItems,addToCart,removeFromCart}= useContext(StoreContext)
+    const{cartItems,addToCart,removeFromCart}= useContext(StoreContext);
   return (
     <div className="food-item">
         <div className="food-item-img-container">
