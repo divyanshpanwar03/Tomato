@@ -29,4 +29,7 @@ Fork the repository and create a new branch.
 Make your changes and test them thoroughly.
 Submit a pull request with a detailed description of your changes.
 📧 Contact Information
-For any queries or support, feel free to reach out at divyansh.panwar2003@gmail.com.
+For any queries or support, feel free to reach out at
+divyansh.panwar2003@gmail.com.
+aryan.tambe04@gmail.com
+anishchoudhary1415@gmail.com
