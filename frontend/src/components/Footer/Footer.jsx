@@ -7,8 +7,10 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo} alt="" />
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit delectus repellat, nostrum sequi non dolores esse earum cupiditate minus dolore eius, temporibus, ad minima modi soluta! Corrupti, recusandae! Asperiores, quam?
-                    , nesciunt in est omnis fugiat amet obcaecati quis accusamus earum dolores rerum a laudantium. Praesentium vitae odit iste debitis cumque dolores eveniet quasi reprehenderit nobis!</p>
+                <p>Welcome to Tomato, a modern and user-friendly food delivery application inspired by Zomato. This project leverages the MERN stack (MongoDB, Express, React, and Node.js) and uses Stripe for secure and seamless payment integration.
+                Users can sign up, log in, and manage their profiles. Browse Dishes: Explore a variety of menus with search and filtering options. Cart Management: Add or remove items from the cart and view the total cost.
+                Admin Dashboard: Manage orders and users from an admin panel.
+                </p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.linkedin_icon} alt="" />
