@@ -64,6 +64,7 @@ const Cart = () => {
       </div>
 
       {/* Chat Window */}
+      <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
       {showChat && <ChatWindow cartItems={cartItems} foodList={food_list} onClose={() => setShowChat(false)} />}
     </div>
   );
