@@ -1,5 +1,5 @@
 🍅 Tomato - Food Delivery App
-Welcome to Tomato, a modern and user-friendly food delivery application inspired by Zomato. This project leverages the MERN stack (MongoDB, Express, React, and Node.js) and uses Stripe for secure and seamless payment integration.
+Welcome to Tomato, an end-to-end and user-friendly food delivery application inspired by Zomato. This project leverages the MERN stack (MongoDB, Express, React, and Node.js) and uses Stripe for secure and seamless payment integration.
 
 🌟 Features
 User Authentication: Users can sign up, log in, and manage their profiles.
